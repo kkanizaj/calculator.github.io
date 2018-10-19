@@ -2,7 +2,7 @@
   "name": "kkanizaj.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kkanizaj.github.io/kkanizaj.github.io",
+  "homepage": "https://kkanizaj.github.io/calculator.github.io",
   "dependencies": {
     "http-proxy-middleware": "^0.19.0",
     "react": "^16.5.2",
