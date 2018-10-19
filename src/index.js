@@ -70,7 +70,7 @@ class Calculator extends React.Component {
     onEvaluatePressed() {
 
         if (this.state.expression !== ''){
-        fetch('/api/hello', {
+        fetch('https://calculator-heroku.herokuapp.com/api/hello', {
             method: "POST",
             headers: {
                 'Content-Type': 'application/json',
