@@ -1,13 +1,13 @@
 {
-  "main.css": "/kkanizaj.github.io/static/css/main.3a2c26b0.chunk.css",
-  "main.js": "/kkanizaj.github.io/static/js/main.8653d53e.chunk.js",
-  "main.js.map": "/kkanizaj.github.io/static/js/main.8653d53e.chunk.js.map",
-  "static/js/1.ad4591f8.chunk.js": "/kkanizaj.github.io/static/js/1.ad4591f8.chunk.js",
-  "static/js/1.ad4591f8.chunk.js.map": "/kkanizaj.github.io/static/js/1.ad4591f8.chunk.js.map",
-  "runtime~main.js": "/kkanizaj.github.io/static/js/runtime~main.d965181b.js",
-  "runtime~main.js.map": "/kkanizaj.github.io/static/js/runtime~main.d965181b.js.map",
-  "static/css/main.3a2c26b0.chunk.css.map": "/kkanizaj.github.io/static/css/main.3a2c26b0.chunk.css.map",
-  "index.html": "/kkanizaj.github.io/index.html",
-  "precache-manifest.6d30a23dbcb3326a397b4b6f548af912.js": "/kkanizaj.github.io/precache-manifest.6d30a23dbcb3326a397b4b6f548af912.js",
-  "service-worker.js": "/kkanizaj.github.io/service-worker.js"
+  "main.css": "/calculator.github.io/static/css/main.3a2c26b0.chunk.css",
+  "main.js": "/calculator.github.io/static/js/main.99b5de72.chunk.js",
+  "main.js.map": "/calculator.github.io/static/js/main.99b5de72.chunk.js.map",
+  "static/js/1.ad4591f8.chunk.js": "/calculator.github.io/static/js/1.ad4591f8.chunk.js",
+  "static/js/1.ad4591f8.chunk.js.map": "/calculator.github.io/static/js/1.ad4591f8.chunk.js.map",
+  "runtime~main.js": "/calculator.github.io/static/js/runtime~main.eea4ef69.js",
+  "runtime~main.js.map": "/calculator.github.io/static/js/runtime~main.eea4ef69.js.map",
+  "static/css/main.3a2c26b0.chunk.css.map": "/calculator.github.io/static/css/main.3a2c26b0.chunk.css.map",
+  "index.html": "/calculator.github.io/index.html",
+  "precache-manifest.2ae14c8261028b7a7276cf9aa4ab28f4.js": "/calculator.github.io/precache-manifest.2ae14c8261028b7a7276cf9aa4ab28f4.js",
+  "service-worker.js": "/calculator.github.io/service-worker.js"
 }

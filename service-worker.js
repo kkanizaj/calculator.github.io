@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/kkanizaj.github.io/precache-manifest.6d30a23dbcb3326a397b4b6f548af912.js"
+  "/calculator.github.io/precache-manifest.2ae14c8261028b7a7276cf9aa4ab28f4.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/kkanizaj.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/calculator.github.io/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
